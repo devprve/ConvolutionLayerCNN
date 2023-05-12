@@ -10,19 +10,17 @@ b) implement depth wise pooling layer in keras and demonstrate its use
 
 c) 
 
-Part 2:
+Part 2:  
 
 Three colabs with  vision classifiers - data  - mnist, fashion mnist and cifar 10
 
  
 
-demonstrate for each colab :
+demonstrate for each colab : Build high performance vision classifiersPART2 .ipynb
 
 a) use simple neural network as well as lenet-5  - two architectures
 
- 
-
-b) demonstrate pretrained model with transfer learning  (both efficient net and BiT)
+ b) demonstrate pretrained model with transfer learning  (both efficient net and BiT)
 
 c) Demonstrate imge augmentation 
 
